@@ -1,6 +1,6 @@
 ﻿namespace ExemploHeranca;
 
-abstract internal class Produto
+abstract public class Produto
 {
     protected int codigo;
     protected string nome;

@@ -1,6 +1,6 @@
 ﻿namespace ExemploHeranca;
 
-internal class Eletronico : Produto
+public class Eletronico : Produto
 {
     private int tensao;
     private int garantia;
